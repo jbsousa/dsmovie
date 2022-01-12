@@ -4,13 +4,13 @@ import './styles.css'
 function Navbar() {
   return (
     <header>
-      <nav className='container'>
-        <div className='dsmovie-nav-content'>
+      <nav className="container">
+        <div className="dsmovie-nav-content">
           <h1>DSMovie</h1>
-          <a href='https://github.com/jbsousa'>
-            <div className='dsmovie-contact-container'>
+          <a href="https://github.com/jbsousa">
+            <div className="dsmovie-contact-container">
               <GithubIcon />
-              <p className='dsmovie-contact-link'>/jbsousa</p>
+              <p className="dsmovie-contact-link">/jbsousa</p>
             </div>
           </a>
         </div>
