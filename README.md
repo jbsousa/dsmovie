@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-tecnologias">🚀 Tecnologias</a> |
+  <a href="#-tecnologias">🚀 Tecnologias</a> |
   <a href="#-projeto">💻 Projeto</a>
 </p>
 
